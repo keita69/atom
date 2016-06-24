@@ -1,4 +1,5 @@
 # Atom設定メモ
+自分のAtom設定をどのPCでも再現するためのメモ。
 
 ## install package
 ### git関連
