@@ -11,6 +11,8 @@
 ### 見た目関連
 99. file-icons
 
+## install themes
+
 ## カスタマイズ
 99. proxy設定  
 http://qiita.com/dskst/items/6153915b658433b02cd3
