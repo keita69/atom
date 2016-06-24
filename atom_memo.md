@@ -3,15 +3,17 @@
 
 ## install package
 ### git関連
-99. git-plus
-
+```
+apm install git-plus
+```
 ### vim関連
 
 ### python関連
 
 ### 見た目関連
-99. file-icons
-
+```
+apm install file-icons
+```
 ## install themes
 
 ## カスタマイズ
