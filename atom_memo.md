@@ -30,3 +30,4 @@ http://qiita.com/dskst/items/6153915b658433b02cd3
 http://qiita.com/syoukoosu/items/3b6e7ad24659d93a4e8c
 
 ## 修正 20160626
+testブランチで編集
