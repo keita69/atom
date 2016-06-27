@@ -32,3 +32,4 @@ http://qiita.com/syoukoosu/items/3b6e7ad24659d93a4e8c
 ## memo
 
 ## 修正 20160626
+testブランチで編集
