@@ -15,11 +15,13 @@ git config --global user.email johndoe@example.com
 
 ### 見た目関連
 99. file-icons
+99. markdown-scroll-sync
 
 ### パッケージインストールコピペ用リスト
 ```
 apm install git-plus
 apm install file-icons
+apm install markdown-scroll-sync
 ```
 ## install themes
 
