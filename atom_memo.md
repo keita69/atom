@@ -38,6 +38,7 @@ apm install git-plus
 apm install file-icons
 apm install markdown-scroll-sync
 apm install vim-mode-plus
+apm install vim-mode-plus-ex-mode
 ```
 ## install themes
 
