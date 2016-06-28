@@ -22,6 +22,7 @@ password パスワード2
 99. git-plus
 
 ### vim関連
+99. vim-mode-plus
 
 ### python関連
 
@@ -36,6 +37,7 @@ password パスワード2
 apm install git-plus
 apm install file-icons
 apm install markdown-scroll-sync
+apm install vim-mode-plus
 ```
 ## install themes
 
@@ -44,8 +46,3 @@ apm install markdown-scroll-sync
 http://qiita.com/dskst/items/6153915b658433b02cd3
 99. markdownプレビュー画面のフォント設定  
 http://qiita.com/syoukoosu/items/3b6e7ad24659d93a4e8c
-
-## memo
-
-## 修正 20160626
-testブランチで編集
