@@ -13,6 +13,9 @@ git config --global user.email johndoe@example.com
 
 ### python関連
 
+### markdown関連
+99. markdown-scroll-sync
+
 ### 見た目関連
 99. file-icons
 
@@ -20,6 +23,7 @@ git config --global user.email johndoe@example.com
 ```
 apm install git-plus
 apm install file-icons
+apm install markdown-scroll-sync
 ```
 ## install themes
 
