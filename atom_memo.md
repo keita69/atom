@@ -19,7 +19,7 @@ git config --global user.email johndoe@example.com
 ### 見た目関連
 99. file-icons
 
-### パッケージインストールコピペ用リスト!
+### パッケージインストールコピペ用リスト
 ```
 apm install git-plus
 apm install file-icons
