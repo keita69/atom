@@ -23,7 +23,7 @@ password パスワード2
 
 ### vim関連
 99. vim-mode-plus
-
+99. vim-mode-plus-ex-mode
 ### python関連
 
 ### markdown関連
