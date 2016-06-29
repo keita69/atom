@@ -23,7 +23,7 @@ password パスワード2
 
 ### vim関連
 99. vim-mode-plus
-99. vim-mode-plus-ex-mode
+
 ### python関連
 
 ### markdown関連
@@ -39,7 +39,6 @@ apm install git-plus
 apm install file-icons
 apm install markdown-scroll-sync
 apm install vim-mode-plus
-apm install vim-mode-plus-ex-mode
 apm install auto-encoding
 ```
 ## install themes
