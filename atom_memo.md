@@ -31,6 +31,7 @@ password パスワード2
 
 ### 見た目関連
 99. file-icons
+99. auto-encoding
 
 ### パッケージインストールコピペ用リスト
 ```
@@ -39,6 +40,7 @@ apm install file-icons
 apm install markdown-scroll-sync
 apm install vim-mode-plus
 apm install vim-mode-plus-ex-mode
+apm install auto-encoding
 ```
 ## install themes
 
