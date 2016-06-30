@@ -20,6 +20,7 @@ password パスワード2
 ## install package
 ### git関連
 99. git-plus
+99. git-log
 
 ### vim関連
 99. vim-mode-plus
@@ -36,6 +37,7 @@ password パスワード2
 ### パッケージインストールコピペ用リスト
 ```
 apm install git-plus
+apm install git-log
 apm install file-icons
 apm install markdown-scroll-sync
 apm install vim-mode-plus
